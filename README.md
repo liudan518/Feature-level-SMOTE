@@ -1,8 +1,4 @@
-# Feature-level SMOTE | 五语科研展示网站
-
-论文：*Feature-level SMOTE: Augmenting Fault Samples in the Learnable Feature Space for Imbalanced Fault Diagnosis of Gas Turbines*  
-期刊：*Expert Systems with Applications*, 238 (2024), 122023  
-DOI：https://doi.org/10.1016/j.eswa.2023.122023
+# Feature-level SMOTE 
 
 ## 公开访问 / Public access
 
@@ -10,6 +6,10 @@ DOI：https://doi.org/10.1016/j.eswa.2023.122023
 - **论文 PDF 全文 / Full-text PDF（约 22 MB）:** [https://liudan518.github.io/Feature-level-SMOTE/Feature-level%20SMOTE.pdf](https://liudan518.github.io/Feature-level-SMOTE/Feature-level%20SMOTE.pdf)
 - **DOI 原文 / Publisher DOI:** [https://doi.org/10.1016/j.eswa.2023.122023](https://doi.org/10.1016/j.eswa.2023.122023)
 - **部署记录 / Deployment history:** [GitHub Actions](https://github.com/liudan518/Feature-level-SMOTE/actions)
+
+论文：*Feature-level SMOTE: Augmenting Fault Samples in the Learnable Feature Space for Imbalanced Fault Diagnosis of Gas Turbines*  
+期刊：*Expert Systems with Applications*, 238 (2024), 122023  
+DOI：https://doi.org/10.1016/j.eswa.2023.122023
 
 网页和论文 PDF 均可公开访问，无需登录。The website and PDF are publicly accessible without signing in.
 

@@ -4,6 +4,18 @@
 期刊：*Expert Systems with Applications*, 238 (2024), 122023  
 DOI：https://doi.org/10.1016/j.eswa.2023.122023
 
+## 公开访问 / Public access
+
+- **科研主页 / Research website:** [https://liudan518.github.io/Feature-level-SMOTE/](https://liudan518.github.io/Feature-level-SMOTE/)
+- **论文 PDF 全文 / Full-text PDF（约 22 MB）:** [https://liudan518.github.io/Feature-level-SMOTE/Feature-level%20SMOTE.pdf](https://liudan518.github.io/Feature-level-SMOTE/Feature-level%20SMOTE.pdf)
+- **DOI 原文 / Publisher DOI:** [https://doi.org/10.1016/j.eswa.2023.122023](https://doi.org/10.1016/j.eswa.2023.122023)
+- **部署记录 / Deployment history:** [GitHub Actions](https://github.com/liudan518/Feature-level-SMOTE/actions)
+
+网页和论文 PDF 均可公开访问，无需登录。The website and PDF are publicly accessible without signing in.
+
+本项目通过 GitHub Pages 发布；更新 `main` 分支后会自动构建并部署。
+The site is hosted on GitHub Pages and redeploys automatically when `main` is updated.
+
 ## 如何使用
 
 1. 解压整个 ZIP，保持内部文件夹结构不变。
